@@ -39,7 +39,7 @@ public class Lesson5_M5_HW {
         hashMap.put(56, "Junior QA Analyst Doll");
         System.out.println(hashMap);
         if (hashMap.get(id)==null){
-            System.out.println("No such Toy");
+            System.out.println("No such Toy! Too bad!!");
         }
             return hashMap.get(id);
 
