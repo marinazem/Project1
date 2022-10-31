@@ -15,7 +15,7 @@ public class Lesson3_M4_HW {
         Lesson3_M4_HW lesson3_m4_hw = new Lesson3_M4_HW();
         lesson3_m4_hw.compareStrings("CATalog", "cat");
 
-        lesson3_m4_hw.isPalindrome("mOM");
+        lesson3_m4_hw.isPalindrome("mOMDad");
 
     }
 
