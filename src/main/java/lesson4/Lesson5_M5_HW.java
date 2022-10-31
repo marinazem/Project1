@@ -40,6 +40,7 @@ public class Lesson5_M5_HW {
         System.out.println(hashMap);
         if (hashMap.get(id)==null){
             System.out.println("No such Toy! Too bad!!");
+            System.out.println("Good Job");
         }
             return hashMap.get(id);
 
